@@ -26,11 +26,13 @@ SECRET_KEY = 'ny#_ys@@%xe8a!u@rgm@9s^0*xe4i5gh0(o2c^mg*dlw%g^xj+'
 DEBUG = True
 
 ALLOWED_HOSTS = []
-
+DEFAULT_AUTO_FIELD='django.db.models.AutoField'
 
 # Application definition
 
 INSTALLED_APPS = [
+    'cars.apps.CarsConfig',
+    'ckeditor',
     'pages.apps.PagesConfig',
     'django.contrib.admin',
     'django.contrib.auth',
