@@ -26,6 +26,7 @@ SECRET_KEY = 'ny#_ys@@%xe8a!u@rgm@9s^0*xe4i5gh0(o2c^mg*dlw%g^xj+'
 DEBUG = True
 
 ALLOWED_HOSTS = []
+LOGIN_REDIRECT_URL = 'dashboard'
 DEFAULT_AUTO_FIELD='django.db.models.AutoField'
 
 # Application definition
@@ -34,6 +35,7 @@ INSTALLED_APPS = [
     'cars.apps.CarsConfig',
     'ckeditor',
     'pages.apps.PagesConfig',
+    'accounts.apps.AccountsConfig',
     'django.contrib.admin',
     'django.contrib.auth',
     'django.contrib.humanize',
@@ -42,6 +44,12 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'livereload',
     'django.contrib.staticfiles',
+    'django.contrib.sites',
+    'allauth',
+    'allauth.account',
+    'allauth.socialaccount',
+    'allauth.socialaccount.providers.facebook',
+    'allauth.socialaccount.providers.google',
 
 ]
 
@@ -135,3 +143,18 @@ STATICFILES_DIRS = [
 
 MEDIA_ROOT = os.path.join(BASE_DIR,'media')
 MEDIA_URL = '/media/'
+
+
+from django.contrib.messages import constants as messages
+MESSAGE_TAGS = {
+    messages.ERROR: 'danger',
+}
+
+SITE_ID =1
+
+
+# EMAIL_HOST ='smtp.gmail.com'
+# EMAIL_PORT = 587
+# EMAIL_HOST_USER = 'service4u.carzone@gmail.com'
+# EMAIL_HOST_PASSWORD = 'Carzone@1999'
+# EMAIL_USE_TLS = True
