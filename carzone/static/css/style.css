@@ -2321,6 +2321,13 @@ input[type=checkbox]:checked + label:before {
     border-radius: 0;
 }
 
+#inquiryModal
+{
+   background: transparent;
+    margin-top: 100px;
+
+}
+
 .car-model-2 .car-modal .modal-header {
     background: transparent;
     border: none;
@@ -2484,6 +2491,7 @@ input[type=checkbox]:checked + label:before {
     background-color: transparent;
     border: none;
     border-radius: 0;
+
 }
 
 .car-model-2 .modal-right-content h3 {

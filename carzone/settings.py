@@ -36,6 +36,7 @@ INSTALLED_APPS = [
     'ckeditor',
     'pages.apps.PagesConfig',
     'accounts.apps.AccountsConfig',
+    'contacts.apps.ContactsConfig',
     'django.contrib.admin',
     'django.contrib.auth',
     'django.contrib.humanize',
@@ -153,8 +154,8 @@ MESSAGE_TAGS = {
 SITE_ID =1
 
 
-# EMAIL_HOST ='smtp.gmail.com'
-# EMAIL_PORT = 587
-# EMAIL_HOST_USER = 'service4u.carzone@gmail.com'
-# EMAIL_HOST_PASSWORD = 'Carzone@1999'
-# EMAIL_USE_TLS = True
+EMAIL_HOST ='smtp.gmail.com'
+EMAIL_PORT = 587
+EMAIL_HOST_USER = 'service4u.carzone@gmail.com'
+EMAIL_HOST_PASSWORD = 'Carzone@1999'
+EMAIL_USE_TLS = True
