@@ -24,9 +24,9 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SECRET_KEY = 'ny#_ys@@%xe8a!u@rgm@9s^0*xe4i5gh0(o2c^mg*dlw%g^xj+'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
-ALLOWED_HOSTS = ['0.0.0.0', 'localhost', '127.0.0.1','afternoon-cove-60910.herokuapp.com/']
+ALLOWED_HOSTS = ['0.0.0.0', 'localhost', '127.0.0.1','carzonewebapp.herokuapp.com']
 LOGIN_REDIRECT_URL = 'dashboard'
 DEFAULT_AUTO_FIELD='django.db.models.AutoField'
 
