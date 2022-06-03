@@ -23,29 +23,51 @@ An Admin or an employee of a company or an organization can have an interactive 
 
 ![alt text](https://github.com/Sauravkrrathaur99/carzone-app/blob/master/website%20preview%20images/preview7.png?raw=true)
 ![alt text](https://github.com/Sauravkrrathaur99/carzone-app/blob/master/website%20preview%20images/preview8.png?raw=true)
+
 <p align="center"><b>CARS INVENTORY</b></p>
+
 ![alt text](https://github.com/Sauravkrrathaur99/carzone-app/blob/master/website%20preview%20images/preview9.png?raw=true)
 ![alt text](https://github.com/Sauravkrrathaur99/carzone-app/blob/master/website%20preview%20images/preview10.png?raw=true)
+
 <p align="center"><b>PAGINATION</b></p>
+
 ![alt text](https://github.com/Sauravkrrathaur99/carzone-app/blob/master/website%20preview%20images/preview11.png?raw=true)
+
 <p align="center"><b>sINGLE CAR-DETAIL PAGE</b></p>
+
 ![alt text](https://github.com/Sauravkrrathaur99/carzone-app/blob/master/website%20preview%20images/preview12.png?raw=true)
 ![alt text](https://github.com/Sauravkrrathaur99/carzone-app/blob/master/website%20preview%20images/preview13.png?raw=true)
+
 <p align="center"><b>QUERY FORM WITH LOGIN CREDENTIALS</b></p>
+
 ![alt text](https://github.com/Sauravkrrathaur99/carzone-app/blob/master/website%20preview%20images/preview14.png?raw=true)
+
 <p align="center"><b>QUERY FORM WITHOUT LOGIN CREDENTIALS</b></p>
+
 ![alt text](https://github.com/Sauravkrrathaur99/carzone-app/blob/master/website%20preview%20images/preview15.png?raw=true)
+
 <p align="center"><b>SERVICES PAGE</b></p>
+
 ![alt text](https://github.com/Sauravkrrathaur99/carzone-app/blob/master/website%20preview%20images/preview16.png?raw=true)
 ![alt text](https://github.com/Sauravkrrathaur99/carzone-app/blob/master/website%20preview%20images/preview17.png?raw=true)
+
 <p align="center"><b>CONTACT US PAGE</b></p>
+
 ![alt text](https://github.com/Sauravkrrathaur99/carzone-app/blob/master/website%20preview%20images/preview18.png?raw=true)
+
 <p align="center"><b>LOGIN PAGE</b></p>
+
 ![alt text](https://github.com/Sauravkrrathaur99/carzone-app/blob/master/website%20preview%20images/preview19.png?raw=true)
+
 <p align="center"><b>REGISTER PAGE</b></p>
+
 ![alt text](https://github.com/Sauravkrrathaur99/carzone-app/blob/master/website%20preview%20images/preview20.png?raw=true)
+
 <p align="center"><b>DASHBOARD AFTER LOGGEG IN</b></p>
+
 ![alt text](https://github.com/Sauravkrrathaur99/carzone-app/blob/master/website%20preview%20images/preview21.png?raw=true)
+
 <p align="center"><b>MESSAGE DISPLAYING AFTER LOGOUT</b></p>
+
 ![alt text](https://github.com/Sauravkrrathaur99/carzone-app/blob/master/website%20preview%20images/preview22.png?raw=true)
 
