@@ -9,7 +9,7 @@ Car-Zone is the website and application that is designed and developed for Car D
 This website is fully dynamic designed and developed as per all the requirements of valuable customers need. 
 An Admin or an employee of a company or an organization can have an interactive dashboard to handle this whole website. They can edit and manage everything throughout the website. They do have not to be confused about the names and icons as all the icons are prebuilt with easy recognizable and as going through the management  portal ,yes , a admin can manage everything in one place at the same time. 
 
-# learning from UDEMY
+<h6>Learning from UDEMY Courses</h6>
 
 <p align="center"><b>HOME PAGE</b></p>
 
