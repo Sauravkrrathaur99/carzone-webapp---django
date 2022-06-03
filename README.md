@@ -18,7 +18,7 @@ An Admin or an employee of a company or an organization can have an interactive 
 ![alt text](https://github.com/Sauravkrrathaur99/carzone-app/blob/master/website%20preview%20images/preview3.png?raw=true)
 ![alt text](https://github.com/Sauravkrrathaur99/carzone-app/blob/master/website%20preview%20images/preview5.png?raw=true)
 ![alt text](https://github.com/Sauravkrrathaur99/carzone-app/blob/master/website%20preview%20images/preview6.png?raw=true)
-<p align="center"><b>ABOUT US!</b></p>
+
 ![alt text](https://github.com/Sauravkrrathaur99/carzone-app/blob/master/website%20preview%20images/preview7.png?raw=true)
 ![alt text](https://github.com/Sauravkrrathaur99/carzone-app/blob/master/website%20preview%20images/preview8.png?raw=true)
 <p align="center"><b>CARS INVENTORY</b></p>
