@@ -11,7 +11,7 @@ An Admin or an employee of a company or an organization can have an interactive 
 
 # learning from UDEMY
 
-<p align="center">HOME</p>
+<p align="center"><b>HOME PAGE</b></p>
 
 ![alt text](https://github.com/Sauravkrrathaur99/carzone-app/blob/master/website%20preview%20images/preview1.png?raw=true)
 ![alt text](https://github.com/Sauravkrrathaur99/carzone-app/blob/master/website%20preview%20images/preview2.png?raw=true)
